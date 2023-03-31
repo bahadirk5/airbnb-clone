@@ -1,9 +1,9 @@
 "use client";
 
-import Container from "../Container";
-import Logo from "./Logo";
-import Search from "./Search";
-import UserMenu from "./UserMenu";
+import Container from "@/components/Container";
+import Logo from "@/components/navbar/Logo";
+import Search from "@/components/navbar/Search";
+import UserMenu from "@/components/navbar/UserMenu";
 
 const Navbar = () => {
   return (
